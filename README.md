@@ -523,8 +523,7 @@ extensions: ['.js', '.vue', '.json', '.less'],
     })
   })
 ```
-### 参考
-> 慕课网黄佚老师Vue Music App
+
 
 
   [1]: https://ws1.sinaimg.cn/large/e8323205gy1fqkjptsymkg20qk0hkx6p.jpg
